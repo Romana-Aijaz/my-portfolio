@@ -12,14 +12,14 @@ const Approach = () => {
             </h1>
             <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
                 <Card title="Planning & Strategy" icon={<AceternityIcon order="Phase 1"/>}
-                description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+                    description="I thoroughly analyze the client's needs, goals, and pain points. I engage in in-depth discussions to gather comprehensive requirements, leaving no stone unturned. This deep dive into the client's business context allows me to craft solutions that are perfectly aligned with their unique needs."
                 ><CanvasRevealEffect
                         animationSpeed={5.1}
                         containerClassName="bg-emerald-900"
                     />
                 </Card>
                 <Card title="Development & Progress Update" icon={<AceternityIcon order="Phase 2" />}
-                    description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements"
+                    description="During the development process, I provide regular progress updates to keep the client informed and engaged. This allows for timely feedback and course corrections, ensuring the final solution aligns perfectly with their vision."
                 >
                     <CanvasRevealEffect
                         animationSpeed={3}
@@ -33,7 +33,7 @@ const Approach = () => {
                    
                 </Card>
                 <Card title="Development & Launch" icon={<AceternityIcon order="Phase 3" />}
-                    description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements"
+                    description="I conduct thorough testing and quality assurance procedures to guarantee that the final product meets high standards of functionality. I execute efficient deployment strategies to ensure seamless launches on web and mobile platforms."
                 >
                     <CanvasRevealEffect
                         animationSpeed={3}

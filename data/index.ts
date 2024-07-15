@@ -81,10 +81,10 @@ export const projects = [
     {
         id: 2,
         title: "Yoom - Video Conferencing App",
-        des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-        img: "/p2.svg",
+        des: "A React Native mobile app integrated with Moodle, delivering a seamless and dynamic learning management system on the go.",
+        img: "/Apps.jpg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-        link: "https://github.com/adrianhajdin/zoom-clone",
+        link: "https://github.com/Romana-Aijaz/inspire-lms",
     },
     {
         id: 3,
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
-        desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+        title: "Node.js Developer",
+        desc: "Developed a chatbot system using OpenAI, enabling property searches by location, price range, and property type. Integrated with Twilio for WhatsApp functionality.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Mobile App Dev - JSM Tech",
-        desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+        title: "Mobile App Developer",
+        desc: "Created a mobile app in React Native for students to purchase and register for online courses, integrated with a real-time Moodle learning management system.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "Freelance App Dev Project",
-        desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+        title: "Business Developer",
+        desc: "Utilized LinkedIn Sales Navigator for lead generation and leveraged diverse marketing channels, including effective email campaigns, to connect with potential customers and increase lead conversions.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp3.svg",
     },
     {
         id: 4,
-        title: "Lead Frontend Developer",
-        desc: "Developed and maintained user-facing features using modern frontend technologies.",
+        title: "Full Stack Developer",
+        desc: "Deployed food delivery mobile applications on both the Google Play Store and Apple App Store. Deployed a multivendor food delivery web application on Vercel.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },

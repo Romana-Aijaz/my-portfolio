@@ -88,9 +88,9 @@ export const projects = [
     },
     {
         id: 3,
-        title: "AI Image SaaS - Canva Application",
-        des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-        img: "/p3.svg",
+        title: "Book Swap - Next.js Website",
+        des: "A platform for swapping books with Google sign-in, dynamic categories, and MongoDB for connecting like-minded users.",
+        img: "/bookSwap.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
         link: "https://github.com/adrianhajdin/ai_saas_app",
     },

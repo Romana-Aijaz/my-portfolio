@@ -80,7 +80,7 @@ export const projects = [
     },
     {
         id: 2,
-        title: "Yoom - Video Conferencing App",
+        title: "LMS - Learning Management System App",
         des: "A React Native mobile app integrated with Moodle, delivering a seamless and dynamic learning management system on the go.",
         img: "/Apps.jpg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
@@ -91,17 +91,17 @@ export const projects = [
         title: "Book Swap - Next.js Website",
         des: "A platform for swapping books with Google sign-in, dynamic categories, and MongoDB for connecting like-minded users.",
         img: "/bookSwap.png",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-        link: "https://github.com/adrianhajdin/ai_saas_app",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+        link: "https://github.com/Romana-Aijaz/book-swap",
     },
-    {
-        id: 4,
-        title: "Animated Apple Iphone 3D Website",
-        des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-        img: "/p4.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-        link: "https://github.com/adrianhajdin/iphone",
-    },
+    // {
+    //     id: 4,
+    //     title: "Animated Apple Iphone 3D Website",
+    //     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    //     img: "/p4.svg",
+    //     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    //     link: "https://github.com/adrianhajdin/iphone",
+    // },
 ];
 
 export const testimonials = [

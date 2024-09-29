@@ -26,7 +26,7 @@ const Hero = () => {
                      text-blue-100 max-w-80'>Welcome to my portfolio!</h2>
                     <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words='Transforming Concepts into Seamless User Experiences' />
                     <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Hi, I&apos;m Romana, a Full Stack Developer based in Qatar.
+                        Hi, I&apos;m Romana, a Full Stack Developer with a focus on delivering scalable solutions..
                     </p>
                     <a href='#about'>
                         <MagicButton title="Show My Work" 
